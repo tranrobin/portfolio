@@ -1,0 +1,39 @@
+.image-container {
+  
+  overflow: hidden; 
+}
+
+.image-container img {
+  transition: transform 0.4s; 
+  
+}
+
+.image-container:hover img {
+  transform: scale(1.1); 
+}
+
+.background-image { 
+  background-image: url(/src/assets/images/background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+}
+
+.stats-number {
+  font-size: 5rem;
+  line-height: 1;
+  color: #ff9900;
+  white-space: nowrap;
+  padding-bottom: 0.5rem;
+  padding-top: 2rem;
+}
+
+.stats-title {
+  font-size: 1.5rem;
+  line-height: 1;
+  color: #f2f2f2;
+  font-weight: 700;
+  padding-top: 0.5rem;
+}
+

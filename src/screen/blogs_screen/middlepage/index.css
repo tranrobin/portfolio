@@ -1,0 +1,112 @@
+.header-title {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: #232f3e;
+  text-align: center;
+}
+
+.post-card-container {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.big-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 0;
+  padding-bottom: 1rem;
+  color: #232f3e;
+  text-align: center;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.image-tag {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.rounded-img {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  margin-right: 5px;
+}
+
+.post-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+  color: #232f3e;
+  text-align: start;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.post-subTitle {
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 0;
+  padding-bottom: 1.2rem;
+  color: #232f3e;
+  text-align: start;
+  opacity: 0.8;
+  overflow-y: hidden; 
+  text-overflow: ellipsis; 
+  display: -webkit-box; 
+  -webkit-line-clamp: 3; 
+  -webkit-box-orient: vertical;
+
+}
+
+.rounded-pill-text {
+  border-radius: 50px;
+  padding: 0.5rem 1rem;
+  font-size: 15px;
+  font-weight: 700;
+  color: #ff9900;
+  background-color: #232f3e;
+  border: none;
+}
+
+.reading-time-italic {
+  font-style: italic;
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 0;
+  padding-bottom: 1rem;
+  color: #232f3e;
+  text-align: start;
+  opacity: 0.8;
+}
+
+.prj-img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.break-post-line {
+  border-bottom: 1px solid #232f3e;
+  padding-top: 3rem;
+  width: 95%;
+}
+
+.break-post-line-none {
+  padding-top: 3rem;
+}

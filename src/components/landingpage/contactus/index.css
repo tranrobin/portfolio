@@ -1,0 +1,85 @@
+.form-container {
+  background-image: url("/src/assets/images/circle-scatter-haikei.png");
+
+}
+
+.contact-header {
+  padding-bottom: 0.5rem;
+  color: #f2f2f2;
+  text-align: center;
+  font-weight: 700;
+  
+
+}
+
+.contact-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 0;
+  max-width: 75%;
+  margin: 0 auto !important;
+  background-color: #232f3e;
+  color: #f2f2f2;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  opacity: 0.9;
+  background-image:  radial-gradient(#fbfbfb 0.5px, transparent 0.5px), radial-gradient(#fbfbfb 0.5px, #232f3e 0.5px);
+  background-size: 20px 20px;
+  background-position: 0 0,10px 10px;
+  /* padding-bottom: 20px; */
+
+}
+
+.contact-info h3  {
+  color: #ff9900;
+}
+
+.contact-info h2 {
+  color: #ff9900;
+}
+
+.contact-info p  {
+  color: #f2f2f2;
+}
+
+.form-control {
+  border-radius: 0;
+  border: 1px solid #f2f2f2;
+  background-color: #232f3e;
+  color: #f2f2f2;
+}
+
+.form-control:focus {
+  border-color: #ff9900;
+  box-shadow: none;
+  color: #f2f2f2;
+  background-color: #232f3e;
+}
+
+.styled-button {
+  background-color: #ff9900;
+  color: #232f3e;
+  border-radius: 0;
+  border: 1px solid #ff9900;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: 700;
+  transition: all 0.3s ease-in-out;
+}
+
+.styled-button:hover {
+  background-color: #232f3e;
+  color: #ff9900;
+  border: 1px solid #ff9900;
+  transition: all 0.3s ease-in-out;
+}
+
+.contact-footer{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding-top: 3rem;
+  margin: 0;
+}
