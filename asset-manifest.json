@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bminh-portfolio/static/css/main.1f522ab6.css",
-    "main.js": "/bminh-portfolio/static/js/main.0f862a26.js",
+    "main.js": "/bminh-portfolio/static/js/main.aca3c6a8.js",
     "static/media/Retention 2.jpg": "/bminh-portfolio/static/media/Retention 2.32050eb886fe4b6074f6.jpg",
     "static/media/visual.png": "/bminh-portfolio/static/media/visual.50e0483e3845dedce1dc.png",
     "static/media/python.png": "/bminh-portfolio/static/media/python.3128bbbb11f159746b07.png",
@@ -24,10 +24,10 @@
     "static/media/uber.png": "/bminh-portfolio/static/media/uber.e13aad1074f721021a3e.png",
     "index.html": "/bminh-portfolio/index.html",
     "main.1f522ab6.css.map": "/bminh-portfolio/static/css/main.1f522ab6.css.map",
-    "main.0f862a26.js.map": "/bminh-portfolio/static/js/main.0f862a26.js.map"
+    "main.aca3c6a8.js.map": "/bminh-portfolio/static/js/main.aca3c6a8.js.map"
   },
   "entrypoints": [
     "static/css/main.1f522ab6.css",
-    "static/js/main.0f862a26.js"
+    "static/js/main.aca3c6a8.js"
   ]
 }
